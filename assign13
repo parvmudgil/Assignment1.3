@@ -1,0 +1,16 @@
+1.pwd Print Working Directory
+2.vi  is a visual text editor
+3. touch -equivalent of creating or opening a file and saving it 
+4. mkdir -used to create new directories
+5. rm - (i.e., remove) command is used to delete files and directories
+6. ls - is a command to list files
+7. echo - is a built-in command in the bash and C shells that writes its arguments to standard output.
+8. cat - cat command allows us to create single or multiple files, view contain of file, concatenate files
+         and redirect output in terminal or files
+9. who - prints information about all users who are currently logged in
+10. cd- is used to change the current directory
+11. date - is helpful to display date in several formats
+12. cal - Display a conveniently-formatted calendar from the command line
+13. mv - The mv command is used to move or rename files
+14. cp - The cp command is used to make copies of files and directories
+15. which - It allows user to pass several command names as arguments to get their paths in the system. 
